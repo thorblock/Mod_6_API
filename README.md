@@ -1,4 +1,4 @@
-#Module 6 API Challenge
+Module 6 API Challenge
 
 WeatherPy and VacationPy
 
